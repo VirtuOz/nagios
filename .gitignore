@@ -12,3 +12,17 @@ logs
 results
 
 npm-debug.log
+
+.idea
+
+coverage.xml
+
+coverage.html
+node_modules
+
+synthesis.iml
+
+target
+.idea/codeStyleSettings.xml
+
+nagios.iml
